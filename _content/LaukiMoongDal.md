@@ -12,9 +12,9 @@ Serving: 3 people.
 1. Bottle Gourd(Lauki): 300 gms
 2. Moong dal : ½ cup (80 gms)
 3. Oil : 3tbsp
-4. Mustard seeds : ⅛ tsp
+4. Mustard seeds : 1/8 tsp
 5. Cumin seeds : 1 tsp
-6. Asafoetida(Hing): ⅛ tsp(pinch)
+6. Asafoetida(Hing): 1/8 tsp(pinch)
 7. Turmeric powder : ½ tsp
 8. Chilli Powder : 1 ¼ tsp
 9. Chopped coriander leaves: 1tbsp

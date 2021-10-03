@@ -22,7 +22,7 @@ Serving: 2 persons.Make it yourself , view blogpage.
 11. Salt - As per taste
 12. Red chilli powder - 1 ½ tsp
 13. Turmeric powder - ½ tsp
-14. Mustard seeds - ⅛ tsp
+14. Mustard seeds - 1/8 tsp
 15. Cumin seeds - ½ tsp 
 16. Oil - 2tbsp 
 17. Lemon - ½ 

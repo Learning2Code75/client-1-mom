@@ -13,7 +13,7 @@ Serving : 2 persons
 # Ingredients
 1. Handva atta(available in selected grocery shops) -250 gms
 2. Curd -½  cup 
-3. Turmeric Powder - ⅛ tsp
+3. Turmeric Powder - 1/8 tsp
 4. Chilli Powder - 1 tsp
 5. Green Chillies and ginger paste - 1tsp(can be added more if you prefer more spicy)
 6. Sugar - 2tsp
@@ -24,13 +24,13 @@ Serving : 2 persons
 
 ## For Tadka
 1. Oil - 1tbsp
-2. Mustard seeds - ⅛ tsp
+2. Mustard seeds - 1/8 tsp
 3. Cumin seeds - ½ tsp
 4. White sesame seeds -1 tsp
 5. Clove - 2(nos) 
 6. Black pepper seeds - 3(nos)
 7. Bay Leaf - 1(no)
-8. Asafoetida - ⅛ tsp
+8. Asafoetida - 1/8 tsp
 
 # Steps to follow:
 

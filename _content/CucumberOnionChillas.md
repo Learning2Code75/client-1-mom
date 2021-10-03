@@ -19,7 +19,7 @@ Servings : 2 persons
 3. Cucumber - 2nos. (Grated)
 4. Onion - 1no (Chopped)
 5. Green Chillies - 1 no.
-6. Turmeric Powder - ⅛ tsp.
+6. Turmeric Powder - 1/8 tsp.
 7. Red Chilli pwd - 1tsp
 8. Asafoetida (Hing) - 1pinch
 9. Salt as per taste
