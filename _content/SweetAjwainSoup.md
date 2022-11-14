@@ -5,17 +5,20 @@ date: "2022-11-14T14:32:46.183Z"
 
 Sweet Ajwain Soup is a healthy recipe for winter and specially useful for those having cold and cough.
 
-<iframe  width="100%" height="350" src="https://www.youtube.com/embed/uYiP2kXy47M?list=PLd5nOWoCjdS-qWsDgx4eSyY3kY1ZL0O7_" title="Sweet ajwain soup (અજમાની રાબ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/uYiP2kXy47M" title="Sweet ajwain soup (અજમાની રાબ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
+Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a general sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
 
 # Ingredients:
 
-1. Wheat/Bajri/Raggi/Nachani/Jawari flour: 1 tbsp
+1. Wheat/Bajri/Raggi/
+   Nachani/Jawari flour: 1 tbsp
 2. Ghee : ¾ tbsp
 3. Ajwain : ¼ tbsp
-4. Jaggery (finely chopped): 1 tbsp
-5. Water : as per the required consistency of the soup you prefer
+4. Jaggery (finely chopped):
+   1 tbsp
+5. Water : as per the required
+   consistency of the soup you prefer
 
 # Steps to follow:
 
@@ -50,7 +53,7 @@ Add jaggery and boil to required consistency with stirring in between.
 
 Serve hot and enjoy it hot as well for better results.
 
-# Important Tips :
+## Important Tips :
 
 1. Add a pinch of dry ginger powder in case of severe cold.
 2. Bajari/wheat flour – specially for winter

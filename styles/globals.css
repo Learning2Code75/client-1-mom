@@ -63,7 +63,8 @@ img{
   align-self: center;
   align-content: center;
   font-size: 1.2rem;
-  flex-direction: column;                                                                                                                                                                                                                                                                                                      
+  flex-direction: column;   
+  align-items:center;                                                                                                                                                                                                                                                                                                   
 }
 
 @media screen and (max-width: 340px){
