@@ -7,7 +7,9 @@ Using 4 simple and intuitive steps learn how to make delicious Cucumber Onion Ch
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/JIh-Vq2C_7M" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-Healthy tasty breakfast with minimal ingredients. 
+Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
+
+Healthy tasty breakfast with minimal ingredients.
 Easy , Instant and rich in protein .
 Best thing is that you can make it without oil using a non-stick pan.  
 Servings : 2 persons
@@ -26,11 +28,10 @@ Servings : 2 persons
 
 # Steps to follow
 
-## Step 1 
+## Step 1
 
-
-Take all the above ingredients in a bowl. 
-Mix well and add water to make a batter . 
+Take all the above ingredients in a bowl.
+Mix well and add water to make a batter .
 The consistency of batter should be like a dosa batter.
 Cover it and keep aside for 5-10 minutes so as to soak sooji properly.
 <img className="img-blogpage" src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-img-crud.appspot.com/o/chillas_Step1_img1.jpg?alt=media&token=62d72e46-b2a0-4e7b-9904-002f1115eff3" alt="step1" width="350" height="350" />
@@ -44,19 +45,19 @@ Put some oil (optional) on the upper side of the chilla.
 Allow it to cook till the upper side gets dried.
 
 ## Step 3
+
 <img className="img-blogpage" src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-img-crud.appspot.com/o/chillas_Step3_img1.jpg?alt=media&token=05dd463e-80c7-46e3-a33e-8bb9ea19e0c6" alt="step1" width="350" height="350" />
 
 Turn the chilla and allow it to cook till the lower side of the chilla turns light brown.
 
 ## Step 4
-<img className="img-blogpage" src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-img-crud.appspot.com/o/chillas_Step4_img1.jpg?alt=media&token=e0615cf0-116d-4e30-821d-77b9c405eea0" alt="step1" width="350" height="350" />
 
+<img className="img-blogpage" src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-img-crud.appspot.com/o/chillas_Step4_img1.jpg?alt=media&token=e0615cf0-116d-4e30-821d-77b9c405eea0" alt="step1" width="350" height="350" />
 
 Enjoy hot chillas with green chutney and ketchup.
 
 <img className="img-blogpage" src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-img-crud.appspot.com/o/chillas_Step4_img2.jpg?alt=media&token=11be53d1-78cc-4138-a71e-8a1661f66dcc" alt="step1" width="350" height="350" />
 
-
 ## Important Tip
-To enjoy crispy chillas , make chillas immediately after making batter.
 
+To enjoy crispy chillas , make chillas immediately after making batter.
