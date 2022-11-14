@@ -5,7 +5,7 @@ date: "2022-11-14T14:32:46.183Z"
 
 Sweet Ajwain Soup is a healthy recipe for winter and specially useful for those having cold and cough.
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/655w7aL-4-Y" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe  width="100%" height="350" src="https://www.youtube.com/embed/uYiP2kXy47M?list=PLd5nOWoCjdS-qWsDgx4eSyY3kY1ZL0O7_" title="Sweet ajwain soup (અજમાની રાબ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
 
