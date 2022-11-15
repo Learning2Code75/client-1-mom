@@ -7,8 +7,6 @@ Delicious and also protein rich as 5 different dals are used. Needs planning as 
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/8B8Nh_u1-Ug" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
-
 Gujarati special dish, can be enjoyed in the morning as breakfast or in high tea or you can also enjoy it at dinner like most Gujarati families do.
 Serving : 2 persons
 

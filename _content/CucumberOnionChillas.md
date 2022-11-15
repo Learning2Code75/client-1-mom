@@ -7,8 +7,6 @@ Using 4 simple and intuitive steps learn how to make delicious Cucumber Onion Ch
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/JIh-Vq2C_7M" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
-
 Healthy tasty breakfast with minimal ingredients.
 Easy , Instant and rich in protein .
 Best thing is that you can make it without oil using a non-stick pan.  

@@ -8,8 +8,6 @@ Serving: 3 people.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/Eqzh_9LbaAE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-Disclaimer : None of the following content should be treated as clinical or medical advice. The content is just a journal sharing years of experience of cooking of the author and should be treated as a guide to cook dishes listed in the content. We are not liable to any side effects that one may have with the ingredients mentioned in the content.
-
 # Ingredients:
 
 1. Bottle Gourd(Lauki): 300 gms
