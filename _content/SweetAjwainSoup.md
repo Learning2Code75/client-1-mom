@@ -14,7 +14,7 @@ Disclaimer : None of the following content should be treated as clinical or medi
 1. Wheat/Bajri/Raggi/
    Nachani/Jawari flour: 1 tbsp
 2. Ghee : ¾ tbsp
-3. Ajwain : ¼ tbsp
+3. Ajwain : ¼ tsp
 4. Jaggery (finely chopped):
    1 tbsp
 5. Water : as per the required
