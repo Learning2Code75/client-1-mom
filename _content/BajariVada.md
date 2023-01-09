@@ -5,7 +5,7 @@ date: "2023-01-09T18:49:37.584Z"
 
 Winter friendly tasty snack.
 
-<iframe width="908" height="511" src="https://www.youtube.com/embed/WFk67sD0ZHk" title="Bajari Vada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/WFk67sD0ZHk" title="Bajari Vada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ""
 ""
 
