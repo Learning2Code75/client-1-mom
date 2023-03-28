@@ -3,7 +3,7 @@ title: Bajari Vada
 date: "2023-01-09T18:49:37.584Z"
 ---
 
-Winter friendly tasty snack.
+Winter friendly tasty snack. Make sure to checkout the video attached to the blog. Follow the intuitive steps.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/WFk67sD0ZHk" title="Bajari Vada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ""
